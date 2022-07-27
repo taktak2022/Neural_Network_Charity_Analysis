@@ -25,21 +25,23 @@ The EIN and NAME variables were initially removed as part of the pre-processing 
 
 #### COMPILE, TRAIN & EVALUATE THE MODEL:
 * HOW MANY NEURONS, LAYERS AND ACTIVATION FUNCTIONS DID YOU SELECT FOR YOUR NEURAL NETWORK MODEL, AND WHY?
-* ATTEMPT 1:
+* ATTEMPT 1: TWO LAYERS
 ![MOD19 CHALLENGE DEL I ATTEMPT 1](https://user-images.githubusercontent.com/99851509/181381912-143ef2fe-82a7-4f91-835c-fef410792b9e.png)
 
-* ATTEMPT 2:
+* ATTEMPT 2: INCREASED TO THREE LAYERS
 ![MOD19 CHALLENGE DEL III ATTEMPT 2](https://user-images.githubusercontent.com/99851509/181381950-212e9ceb-ccd1-4fe5-9d69-51430400c929.png)
 
-* ATTEMPT 3:
+* ATTEMPT 3: INCREASED THE NUMBER OF NEURONS PER LAYER
 ![MOD19 CHALLENGE DEL III ATTEMPT 3](https://user-images.githubusercontent.com/99851509/181381977-d37e7a39-a3d8-4434-92c7-0718d273cb8f.png)
 
-* ATTEMPT 4:
+* ATTEMPT 4: DECREASED THE NUMBER OF NEURONS PER LAYER
 ![MOD19 CHALLENGE DEL III ATTEMPT 4](https://user-images.githubusercontent.com/99851509/181381999-7c00dbef-9886-46d3-a538-18092ee33919.png)
 
 * WERE YOU ABLE TO ACHIEVE THE TARGET MODEL PERFORMANCE?
+All attempts to improve on the performance of the model failed.  There was no significant increase in the accuracy levels; in fact, they decreased with each subsequent attempt.  The highest accuracy actually came with the initial attempt at 72.9% (73%).
 
 * WHAT STEPS DID YOU TAKE TO TRY AND INCREASE MODEL PERFORMANCE?
+As outlined in the PNGs above, the second attempt increased a layer and the number of neurons.  The third attempt further increased the number of neurons per level substantially.  For the fourth attempt we went in the opposite direction and reduced the number of neurons per level.  This again did not yield any significant increase in performance.
 
 ### SUMMARY
 * SUMMARIZE OVERALL RESULTS
