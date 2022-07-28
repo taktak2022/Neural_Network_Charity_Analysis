@@ -45,4 +45,12 @@ As outlined in the PNGs above, the second attempt increased a layer and the numb
 
 ### SUMMARY
 * SUMMARIZE OVERALL RESULTS
+* FIRST ATTEMPT RESULT: 72.94% (73%)
+* SECOND ATTEMPT RESUTL: 72.69% (73%)
+* THIRD ATTEMPT RESULT: 72.68% (73%)
+* FOURTH ATTEMPT RESULT: 72.66% (73%)
+Looking at the performance accuracy levels side-by-side, we see that the levels actually decrease with each attempt at optimization, but in each attempt they yielded roughly the same percentage (rounded up) at 73%.  Increasing the number of layers as well as increasing and decreasing the number of neurons did not change the performance accuracy with any significance.
+
 * RECOMMENDATION & EXPLANATION FOR A DIFFERENT MODEL
+Attempts to get to the goal of 75% by increasing the original dataset may yield some results.  The attempts made for this challenge portion did not yield any significant results so further attempts would most likely prove fruitless.  This in itself would prove the necessity for a different model altogether.
+Personal Challenges: This module's concepts were quite hard to grasp as we only received a basic understanding of Supervised & Unsupervised Machine Learning and its models.  While not grasping all of the coding and the ever important "why" we do it, it gave me a basic understanding of some of the concepts related to neural networks.  The layers and how they are modeled after the human brain seems, again simple in concept.  The actual application of which is where I still need help to understand.  With more intensive reading hopefully I will get to that level.
