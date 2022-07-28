@@ -49,6 +49,7 @@ As outlined in the PNGs above, the second attempt increased a layer and the numb
 * SECOND ATTEMPT RESUTL: 72.69% (73%)
 * THIRD ATTEMPT RESULT: 72.68% (73%)
 * FOURTH ATTEMPT RESULT: 72.66% (73%)
+
 Looking at the performance accuracy levels side-by-side, we see that the levels actually decrease with each attempt at optimization, but in each attempt they yielded roughly the same percentage (rounded up) at 73%.  Increasing the number of layers as well as increasing and decreasing the number of neurons did not change the performance accuracy with any significance.
 
 * RECOMMENDATION & EXPLANATION FOR A DIFFERENT MODEL
